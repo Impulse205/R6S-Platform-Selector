@@ -1,0 +1,11 @@
+D:\CODING\VS_REPOS\R6SPlantformSwitch\R6SPlantformSwitch\bin\Debug\R6SPlantformSwitch.exe.config
+D:\CODING\VS_REPOS\R6SPlantformSwitch\R6SPlantformSwitch\bin\Debug\R6SPlantformSwitch.exe
+D:\CODING\VS_REPOS\R6SPlantformSwitch\R6SPlantformSwitch\bin\Debug\R6SPlantformSwitch.pdb
+D:\CODING\VS_REPOS\R6SPlantformSwitch\R6SPlantformSwitch\obj\Debug\R6SPlantformSwitch.csprojAssemblyReference.cache
+D:\CODING\VS_REPOS\R6SPlantformSwitch\R6SPlantformSwitch\obj\Debug\R6SPlantformSwitch.Form1.resources
+D:\CODING\VS_REPOS\R6SPlantformSwitch\R6SPlantformSwitch\obj\Debug\R6SPlantformSwitch.Properties.Resources.resources
+D:\CODING\VS_REPOS\R6SPlantformSwitch\R6SPlantformSwitch\obj\Debug\R6SPlantformSwitch.csproj.GenerateResource.cache
+D:\CODING\VS_REPOS\R6SPlantformSwitch\R6SPlantformSwitch\obj\Debug\R6SPlantformSwitch.csproj.CoreCompileInputs.cache
+D:\CODING\VS_REPOS\R6SPlantformSwitch\R6SPlantformSwitch\obj\Debug\R6SPlantformSwitch.exe
+D:\CODING\VS_REPOS\R6SPlantformSwitch\R6SPlantformSwitch\obj\Debug\R6SPlantformSwitch.pdb
+D:\CODING\VS_REPOS\R6SPlantformSwitch\R6SPlantformSwitch\obj\Debug\R6SPlantformSwitch.Instructions.resources
