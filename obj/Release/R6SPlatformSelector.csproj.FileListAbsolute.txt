@@ -1,0 +1,11 @@
+D:\CODING\VS_REPOS\R6SPlatformSelector\bin\Release\R6SPlatformSelector.exe.config
+D:\CODING\VS_REPOS\R6SPlatformSelector\bin\Release\R6SPlatformSelector.exe
+D:\CODING\VS_REPOS\R6SPlatformSelector\bin\Release\R6SPlatformSelector.pdb
+D:\CODING\VS_REPOS\R6SPlatformSelector\obj\Release\R6SPlantformSwitch.Form1.resources
+D:\CODING\VS_REPOS\R6SPlatformSelector\obj\Release\R6SPlatformSelector.Properties.Resources.resources
+D:\CODING\VS_REPOS\R6SPlatformSelector\obj\Release\R6SPlatformSelector.csproj.GenerateResource.cache
+D:\CODING\VS_REPOS\R6SPlatformSelector\obj\Release\R6SPlatformSelector.csproj.CoreCompileInputs.cache
+D:\CODING\VS_REPOS\R6SPlatformSelector\obj\Release\R6SPlatformSelector.exe
+D:\CODING\VS_REPOS\R6SPlatformSelector\obj\Release\R6SPlatformSelector.pdb
+D:\CODING\VS_REPOS\R6SPlatformSelector\obj\Release\R6SPlatformSelector.csprojAssemblyReference.cache
+D:\CODING\VS_REPOS\R6SPlatformSelector\obj\Release\R6SPlantformSwitch.Instructions.resources
